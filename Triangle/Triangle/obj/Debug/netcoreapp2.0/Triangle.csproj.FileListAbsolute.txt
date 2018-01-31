@@ -1,0 +1,11 @@
+D:\Users\Dave\My Documents\Data\class\dotNet2018\ReadMe-example\triangle_example\Triangle\Triangle\bin\Debug\netcoreapp2.0\Triangle.deps.json
+D:\Users\Dave\My Documents\Data\class\dotNet2018\ReadMe-example\triangle_example\Triangle\Triangle\bin\Debug\netcoreapp2.0\Triangle.runtimeconfig.json
+D:\Users\Dave\My Documents\Data\class\dotNet2018\ReadMe-example\triangle_example\Triangle\Triangle\bin\Debug\netcoreapp2.0\Triangle.runtimeconfig.dev.json
+D:\Users\Dave\My Documents\Data\class\dotNet2018\ReadMe-example\triangle_example\Triangle\Triangle\bin\Debug\netcoreapp2.0\Triangle.dll
+D:\Users\Dave\My Documents\Data\class\dotNet2018\ReadMe-example\triangle_example\Triangle\Triangle\bin\Debug\netcoreapp2.0\Triangle.pdb
+D:\Users\Dave\My Documents\Data\class\dotNet2018\ReadMe-example\triangle_example\Triangle\Triangle\obj\Debug\netcoreapp2.0\Triangle.csprojResolveAssemblyReference.cache
+D:\Users\Dave\My Documents\Data\class\dotNet2018\ReadMe-example\triangle_example\Triangle\Triangle\obj\Debug\netcoreapp2.0\Triangle.csproj.CoreCompileInputs.cache
+D:\Users\Dave\My Documents\Data\class\dotNet2018\ReadMe-example\triangle_example\Triangle\Triangle\obj\Debug\netcoreapp2.0\Triangle.AssemblyInfoInputs.cache
+D:\Users\Dave\My Documents\Data\class\dotNet2018\ReadMe-example\triangle_example\Triangle\Triangle\obj\Debug\netcoreapp2.0\Triangle.AssemblyInfo.cs
+D:\Users\Dave\My Documents\Data\class\dotNet2018\ReadMe-example\triangle_example\Triangle\Triangle\obj\Debug\netcoreapp2.0\Triangle.dll
+D:\Users\Dave\My Documents\Data\class\dotNet2018\ReadMe-example\triangle_example\Triangle\Triangle\obj\Debug\netcoreapp2.0\Triangle.pdb
